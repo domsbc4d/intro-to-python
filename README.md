@@ -12,8 +12,6 @@ _Learning outcomes_:
 - Write and use modular functions, and import third-party libraries.
 - Learn and apply a basic set of methods from the core data analysis libraries of Numpy, Pandas and Matplotlib.
 - Investigate and manipulate data to learn its metadata, shape and robustness.
-- Learn how data management, and analysis, supports the Model-View-Control approach to application development.
-- Investigate and apply JavaScript tools, such as D3, Plotly and Leaflet, for data presentation and visualisation.
 - Learn how to improve your knowledge and experience through online documentation and question-and-answer communities.
 
 _Lessons_:
@@ -23,7 +21,6 @@ _Lessons_:
 3. [03 - Python advanced](https://github.com/whythawk/intro-to-python/blob/master/03%20-%20Python%20intermediate.ipynb)
 4. [04 - Python for data analysis](https://github.com/whythawk/intro-to-python/blob/master/04%20-%20Python%20tools%20for%20data%20analysis.ipynb)
 5. [05 - Introduction to data as a science](https://github.com/whythawk/intro-to-python/blob/master/05%20-%20Introduction%20to%20data%20as%20a%20science.ipynb)
-6. [06 - JavaScript tools for visualisation](https://github.com/whythawk/intro-to-python/blob/master/06%20-%20JavaScript%20tools%20for%20visualisation.ipynb)
 
 This fledgling overview is not aimed at teaching analysis or statistical techniques, but rather as a brief introduction to the syntax and methods used in Python programming, as well as a tiny fragment of JavaScript for data presentation. Along the way, you'll learn some of the techniques and approaches to developing software for web applications, as well as what to do to continue your learning experience.
 
